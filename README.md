@@ -1,7 +1,7 @@
 # Fatec-java
 # Projeto de Java - Fatec Praia Grande
 
-Este é o repositório do projeto da disciplina de Java na Fatec Praia Grande. Neste projeto, exploramos os conceitos fundamentais de programação em Java, com foco em orientação a objetos e princípios de padrões de projeto. O objetivo deste projeto é aplicar o conhecimento adquirido ao longo do curso e desenvolver habilidades práticas em programação Java.
+Este é o repositório do projeto da disciplina de Técnicas de Programação do segundo ciclo de Desenvolvimento de Software Multiplataforma na Fatec Praia Grande. Neste projeto, exploramos os conceitos fundamentais de programação em Java, com foco em orientação a objetos e princípios de padrões de projeto. O objetivo deste projeto é aplicar o conhecimento adquirido ao longo do curso e desenvolver habilidades práticas em programação Java.
 
 ## Tópicos Abordados
 
@@ -37,7 +37,6 @@ O objetivo principal deste projeto é aplicar os conceitos de orientação a obj
 - Aplicar a arquitetura Model-View-Controller (MVC) ou outra arquitetura relevante.
 - Conhecer e utilizar frameworks de desenvolvimento front-end e back-end, conforme necessário.
 - Praticar o versionamento do código usando Git e criar documentação adequada para a aplicação.
-
 
 
 ## Contribuições
